@@ -6,7 +6,7 @@ A responsive React application that fetches and displays live Pokémon data from
 
 ## Live demo
 
-The Vercel deployment link will be added here after the repository is connected to Vercel.
+[View the live Pokédex Explorer](https://vortextech-webdev-week4-wheat.vercel.app/)
 
 ## Features
 
